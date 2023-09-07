@@ -8,12 +8,12 @@
 - "[T]akes in a string and the shift factor and then outputs the modified string".
 
 ## Instructions
-1. Download and Install [Ruby](https://www.ruby-lang.org)
+#### Option 1: Ruby file
+1. Download and Install the latest [Ruby](https://www.ruby-lang.org)
 2. run `ruby caesar_cipher.rb`
-```
-	or
-```
-1. Download and Install [Ruby](https://www.ruby-lang.org)
+
+#### Option 2: Interactive Ruby
+1. Download and Install the latest [Ruby](https://www.ruby-lang.org)
 2. run `irb -r ./caesar_cipher.rb`
 3. run `caesar_cipher("Example String!", 5)`
 	- expected output: `Jcfwuqj Xyrsnl!`
